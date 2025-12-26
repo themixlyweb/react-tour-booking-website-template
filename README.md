@@ -43,7 +43,7 @@
   </tbody>
 </table>
 
-<h3>👉 <a href="https://themixly.com/themes/tour-booking-website-react-template/" target="_blank">View the Complete Design – Available Only On</a></h3>
+<h3>👉 View the Complete Design – Available Only On<a href="https://themixly.com/themes/tour-booking-website-react-template/" target="_blank">Themixly</a></h3>
 
 <h2>🧠 Template Use Cases</h2>
 <p>IndiVoyage is perfect for:</p>
